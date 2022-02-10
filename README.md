@@ -3,7 +3,7 @@
 - 🌱 I’m currently graduating!
 - 💞️ I’m looking to collaborate in the future when I have the propper skills.
 - 📫 Will post social media later...
-- https://github.com/Brpds/Brpds/blob/main/JK.jpg
+- ![Alt Text](https://github.com/Brpds/Brpds/blob/main/JK.jpg)
 
 <!---
 Brpds/Brpds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
