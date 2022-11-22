@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brpds
 - 👀 I’m interested in learning a lot!
-- 🌱 I’m currently graduating!
+- 🌱 I graduated! I'm technologist in systems analysis and development.
 - 💞️ I’m looking to collaborate in the future when I have the propper skills.
 - 📫 Will post social media later...
 - ![Alt Text](https://github.com/Brpds/Brpds/blob/main/JK.jpg)
