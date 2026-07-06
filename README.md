@@ -522,4 +522,3 @@ graph TB
 
 - 📫 [LinkedIn](www.linkedin.com/in/brunno-roberto-3334a6213)
 - :email: brpdsdev@gmail.com <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brpds&langs_count=8)
