@@ -306,7 +306,7 @@ A custom storefront and management platform that centralizes inventory, supplier
 
 ### Business Impact
 
-- Reduced repetitive manual product sharing workflows
+- Eliminated the need to manually photograph and send inventory for routine product inquiries
 - Centralized inventory and supplier management
 - Streamlined product publication process
 - Improved image delivery performance through automated optimization
