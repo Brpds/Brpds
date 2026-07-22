@@ -2,11 +2,11 @@
 
 ## About Me
 
-Full-stack developer focused on Laravel, Vue.js, PHP, JavaScript, and designing software that solves real business problems.
+Full-stack developer focused on Laravel, Vue.js, PHP, JavaScript and designing software that solves real business problems.
 
-My background combines software engineering, business process analysis, and real-world problem solving. Rather than building technology for its own sake, I enjoy identifying operational bottlenecks, validating ideas, and engineering practical solutions that create measurable business value.
+My background combines software engineering, business process analysis, and real-world problem solving. Rather than building technology for its own sake, I enjoy identifying operational bottlenecks, validating ideas and engineering practical solutions that create measurable business value.
 
-My recent work includes SaaS development, business automation tools, e-commerce solutions, ETL pipelines, product validation experiments, and custom backend systems.
+My recent work includes SaaS development, business automation tools, e-commerce solutions, ETL pipelines, product validation experiments and custom backend systems.
 
 ---
 
