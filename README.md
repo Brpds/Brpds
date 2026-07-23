@@ -2,7 +2,7 @@
 
 ## About Me
 
-Full-stack developer focused on Laravel, Vue.js, PHP, JavaScript and designing software that solves real business problems.
+Full-stack Software Engineer specializing in web system architecture, API design and data pipelines. Primary Stack: Laravel, Vue.js, PHP, JavaScript with additional exposure to Python and Next.JS. Actively designing software that solves real business problems.
 
 My background combines software engineering, business process analysis and real-world problem solving. Rather than building technology for its own sake, I enjoy identifying operational bottlenecks, validating ideas and engineering practical solutions that create measurable business value.
 
