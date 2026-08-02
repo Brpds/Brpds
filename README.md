@@ -46,7 +46,7 @@ Below is a selection of independent projects and technical case studies.
 ---
 
 <details>
-<summary><b>1. Automated Appointment SaaS</b> 🌐 <i>[Live Demo Not Available]</i></summary>
+<summary><b>1. Automated Appointment SaaS</b> 🌐 <i>[Live Demo Not Available]</i><i>[Read More]</i></summary>
 
 <br>
 
@@ -166,7 +166,7 @@ graph TB
 ---
 
 <details>
-<summary><b>2. Case Study: Legacy Data ETL & Custom WordPress Development</b> 📄 <i>[Technical Breakdown]</i></summary>
+<summary><b>2. Case Study: Legacy Data ETL & Custom WordPress Development</b> 📄 <i>[Technical Breakdown]</i><i>[Read More]</i></summary>
 
 <br>
 
@@ -286,7 +286,7 @@ graph TB
 ---
 
 <details>
-<summary><b>3. Smart Thrift Store Display & Business Management System</b> 🌐 <i>[Live Demo]</i></summary>
+<summary><b>3. Smart Thrift Store Display & Business Management System</b> 🌐 <i>[Live Demo]</i><i>[Read More]</i></summary>
 
 <br>
 
@@ -401,7 +401,7 @@ graph TB
 ---
 
 <details>
-<summary><b>4. Product Validation "Fake Door" Experiment</b> 🌐 <i>[Live Case Study]</i></summary>
+<summary><b>4. Product Validation "Fake Door" Experiment</b> 🌐 <i>[Live Case Study]</i><i>[Read More]</i></summary>
 
 <br>
 
