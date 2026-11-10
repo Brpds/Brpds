@@ -290,9 +290,9 @@ graph TB
 
 <br>
 
-### 🔗 Live Application
+### 🔗 Application Code
 
-[https://www.minottinoninha.com.br](https://github.com/Brpds/minotti-thrift-store)
+[Repository](https://github.com/Brpds/minotti-thrift-store)
 
 🔓 *Codebase no longer private (Since the store closed, it's online presence was taken down and it's personal IP, after some personal data and security sanitization the repository is published as a sample)*
 
