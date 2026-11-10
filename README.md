@@ -286,15 +286,15 @@ graph TB
 ---
 
 <details>
-<summary><b>3. Smart Thrift Store Display & Business Management System</b> 🌐 <i>[Live Demo]</i><i>[Read More]</i></summary>
+<summary><b>3. Smart Thrift Store Display & Business Management System</b><i>[Read More]</i></summary>
 
 <br>
 
 ### 🔗 Live Application
 
-https://www.minottinoninha.com.br
+[https://www.minottinoninha.com.br](https://github.com/Brpds/minotti-thrift-store)
 
-🔒 *Codebase private (Technical walkthrough available upon request.)*
+🔓 *Codebase no longer private (Since the store closed, it's online presence was taken down and it's personal IP, after some personal data and security sanitization the repository is published as a sample)*
 
 ### The Problem
 
